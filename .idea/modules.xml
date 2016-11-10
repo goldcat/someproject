@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/16/16.iml" filepath="$PROJECT_DIR$/16/16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e24/e24.iml" filepath="$PROJECT_DIR$/e24/e24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e25/e25.iml" filepath="$PROJECT_DIR$/e25/e25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e26/e26.iml" filepath="$PROJECT_DIR$/e26/e26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p10/p10.iml" filepath="$PROJECT_DIR$/p10/p10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p11/p11.iml" filepath="$PROJECT_DIR$/p11/p11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p12/p12.iml" filepath="$PROJECT_DIR$/p12/p12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p14/p14.iml" filepath="$PROJECT_DIR$/p14/p14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p16/p16.iml" filepath="$PROJECT_DIR$/p16/p16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p17/p17.iml" filepath="$PROJECT_DIR$/p17/p17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p9.iml" filepath="$PROJECT_DIR$/p9.iml" />
+    </modules>
+  </component>
+</project>
